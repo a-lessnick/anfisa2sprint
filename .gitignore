@@ -57,6 +57,7 @@ coverage.xml
 
 # Django stuff:
 *.log
+*.json
 local_settings.py
 db.sqlite3
 db.sqlite3-journal
@@ -130,3 +131,5 @@ dmypy.json
 
 #vscode
 .vscode/
+
+.idea
